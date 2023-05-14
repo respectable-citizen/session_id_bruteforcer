@@ -3,7 +3,7 @@ Multithreaded ID bruteforcer for Session Messenger. Achieves about 160k IDs/seco
 
 ## Install and use
 * Make sure libsodium is installed
-* Modify line 152 as you see fit to get the custom ID you want
+* Modify line 152 of main.c as you see fit to get the custom ID you want
 * Run build.sh
 * Run nproc to get your CPU thread count if you aren't already aware
 * Run threads.sh with the number of threads you want to run
